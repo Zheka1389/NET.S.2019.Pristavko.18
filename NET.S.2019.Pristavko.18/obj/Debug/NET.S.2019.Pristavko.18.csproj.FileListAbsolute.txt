@@ -1,0 +1,11 @@
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.18\NET.S.2019.Pristavko.18\bin\Debug\NET.S.2019.Pristavko.18.exe.config
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.18\NET.S.2019.Pristavko.18\bin\Debug\NET.S.2019.Pristavko.18.exe
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.18\NET.S.2019.Pristavko.18\bin\Debug\NET.S.2019.Pristavko.18.pdb
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.18\NET.S.2019.Pristavko.18\bin\Debug\NLog.dll
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.18\NET.S.2019.Pristavko.18\bin\Debug\NLog.xml
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.18\NET.S.2019.Pristavko.18\obj\Debug\NET.S.2019.Pristavko.18.csprojAssemblyReference.cache
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.18\NET.S.2019.Pristavko.18\obj\Debug\NET.S.2019.Pristavko.18.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.18\NET.S.2019.Pristavko.18\obj\Debug\NET.S.2019.Pristavko.18.csproj.CopyComplete
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.18\NET.S.2019.Pristavko.18\obj\Debug\NET.S.2019.Pristavko.18.exe
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.18\NET.S.2019.Pristavko.18\obj\Debug\NET.S.2019.Pristavko.18.pdb
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.18\NET.S.2019.Pristavko.18\bin\Debug\NLog.config
